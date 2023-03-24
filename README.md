@@ -23,5 +23,5 @@ Hi there 👋<br><br>✨ I'm Laxman Jadhav<br>🔭 I’m currently working in In
 
 ---
 [![](https://visitcount.itsvg.in/api?id=JADHAVLAXMAN&icon=0&color=0)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=JADHAVLAXMAN&label=Profile%20Views&icon=1&pretty=true)](https://visitcount.itsvg.in)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
